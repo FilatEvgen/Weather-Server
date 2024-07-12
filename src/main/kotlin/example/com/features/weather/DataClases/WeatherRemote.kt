@@ -1,6 +1,5 @@
-package example.com.features.weather
+package example.com.features.weather.DataClases
 
-import example.com.features.weather.DataClases.*
 import kotlinx.serialization.Serializable
 
 @Serializable

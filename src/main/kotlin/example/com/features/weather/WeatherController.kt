@@ -2,6 +2,7 @@ package example.com.features.weather
 
 import example.com.features.weather.DataClases.FinalModel
 import example.com.features.weather.DataClases.TwoGisParameter
+import example.com.features.weather.DataClases.WeatherRemote
 import example.com.utils.ApiRoutes
 import io.ktor.client.*
 import io.ktor.client.call.*
